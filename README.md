@@ -19,6 +19,8 @@ Print number of words present in given file
 End of the program
 ## PROGRAM:
 ```
+# Developed by: praveen s
+# Register Number: 22009017
 import sys
 count = {}
 with open(sys.argv[1], 'r') as f:
